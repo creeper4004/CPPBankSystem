@@ -23,7 +23,7 @@ A simple banking system written in C++ using Boost.Asio.
    `./bin/backend`
 
 5. Run the Frontend
-  `./bin./frontend`
+  `./bin/frontend`
 
 ## Features
 
