@@ -2,7 +2,7 @@
 #include <string>
 #include <boost/asio.hpp>
 
-#include "../common/ClientInfo.hpp"
+#include "../common/Client.hpp"
 
 using namespace std;
 using namespace boost::asio;

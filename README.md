@@ -11,19 +11,19 @@ A simple banking system written in C++ using Boost.Asio.
 ## Building and Running
 
 1. Clone this repository to your local machine
-   git clone https://github.com/creeper/CPPBankSystem.git
+   `git clone https://github.com/creeper/CPPBankSystem.git`
 
 2. Navigate to the project directory
-   cd CPPBankSystem
+   `cd CPPBankSystem`
 
 3. Build the project using the Makefile
-   make
+   `make`
 
 4. Run the Backend 
-   ./bin/backend
+   `./bin/backend`
 
 5. Run the Frontend
-  ./bin./frontend
+  `./bin./frontend`
 
 ## Features
 
@@ -42,11 +42,11 @@ A simple banking system written in C++ using Boost.Asio.
 
 1. Fork this repository
 2. Create your feature branch
-   git checkout -b my-new-feature
+   `git checkout -b my-new-feature`
 3. Commit your changes
-   git commit -am 'Add some feature'
+   `git commit -am 'Add some feature'`
 4. Push to the branch
-   git push origin my-new-feature
+   `git push origin my-new-feature`
 5. Create a new Pull Request
 
 ## License
